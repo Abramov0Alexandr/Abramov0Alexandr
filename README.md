@@ -10,12 +10,12 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abramov0Alexandr&show_icons=true&theme=gruvbox_light)](https://github.com/Abramov0Alexandr?tab=repositories) -->
 
 ### Using languages
-[![Python](https://img.shields.io/badge/-Python-00006f?style=for-the-badge&logo=python&logoColor=9ACD32)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/sql-00006f?style=for-the-badge&logo=mysql)](https://github.com/Abramov0Alexandr)
+[![Python](https://img.shields.io/badge/-Python-3f3fff?style=for-the-badge&logo=python&logoColor=9ACD32)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/sql-3f3fff?style=for-the-badge&logo=mysql)](https://github.com/Abramov0Alexandr)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-00006f?style=for-the-badge&logo=Linux)](https://github.com/Abramov0Alexandr)
-[![Windows](https://img.shields.io/badge/Windows-00006f?style=for-the-badge&logo=Windows)](https://github.com/Abramov0Alexandr)
+[![Linux](https://img.shields.io/badge/linux-3f3fff?style=for-the-badge&logo=Linux)](https://github.com/Abramov0Alexandr)
+[![Windows](https://img.shields.io/badge/Windows-3f3fff?style=for-the-badge&logo=Windows)](https://github.com/Abramov0Alexandr)
 
 <p align="center">
   <a href="https://github.com/Abramov0Alexandr">
