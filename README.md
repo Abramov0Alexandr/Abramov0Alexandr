@@ -10,12 +10,21 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abramov0Alexandr&show_icons=true&theme=gruvbox_light)](https://github.com/Abramov0Alexandr?tab=repositories) -->
 
 ### Using languages
-[![Python](https://img.shields.io/badge/-Python-3f3fff?style=for-the-badge&logo=python&logoColor=9ACD32)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/sql-3f3fff?style=for-the-badge&logo=mysql)](https://github.com/Abramov0Alexandr)
+[![Python](https://img.shields.io/badge/-Python-3f3fff?style=for-the-badge&logo=python&logoColor=9ACD32&labelColor=black)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/sql-3f3fff?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white)](https://github.com/Abramov0Alexandr)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-3f3fff?style=for-the-badge&logo=Linux)](https://github.com/Abramov0Alexandr)
-[![Windows](https://img.shields.io/badge/Windows-3f3fff?style=for-the-badge&logo=Windows)](https://github.com/Abramov0Alexandr)
+[![Linux](https://img.shields.io/badge/linux-3f3fff?style=for-the-badge&logo=Linux&labelColor=black)](https://github.com/Abramov0Alexandr)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-3f3fff?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=black)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/Windows-3f3fff?style=for-the-badge&logo=Windows&labelColor=black)](https://github.com/Abramov0Alexandr)
+
+### Using tools
+[![Django](https://img.shields.io/badge/django-3f3fff?style=for-the-badge&logo=Django&labelColor=black)](https://www.djangoproject.com/)
+[![PostgreSQL](https://img.shields.io/badge/Postgresql-3f3fff?style=for-the-badge&logo=Postgresql&logoColor=white&labelColor=black)](https://www.postgresql.org/)
+[![Postman](https://img.shields.io/badge/Postman-3f3fff?style=for-the-badge&logo=Postman&logoColor=white&labelColor=black)](https://www.postman.com/)
+
+
+
 
 <p align="center">
   <a href="https://github.com/Abramov0Alexandr">
