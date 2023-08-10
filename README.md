@@ -10,11 +10,11 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abramov0Alexandr&show_icons=true&theme=gruvbox_light)](https://github.com/Abramov0Alexandr?tab=repositories) -->
 
 ### Using languages
-[![Python](https://img.shields.io/badge/-Python-3f3fff?style=for-the-badge&logo=python&logoColor=9ACD32&labelColor=black)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/-Python-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/sql-3f3fff?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white)](https://github.com/Abramov0Alexandr)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-3f3fff?style=for-the-badge&logo=Linux&labelColor=black)](https://github.com/Abramov0Alexandr)
+[![Linux](https://img.shields.io/badge/linux-3f3fff?style=for-the-badge&logo=Linux&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-3f3fff?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=black)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-3f3fff?style=for-the-badge&logo=Windows&labelColor=black)](https://github.com/Abramov0Alexandr)
 
@@ -22,6 +22,9 @@
 [![Django](https://img.shields.io/badge/django-3f3fff?style=for-the-badge&logo=Django&labelColor=black)](https://www.djangoproject.com/)
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-3f3fff?style=for-the-badge&logo=Postgresql&logoColor=white&labelColor=black)](https://www.postgresql.org/)
 [![Postman](https://img.shields.io/badge/Postman-3f3fff?style=for-the-badge&logo=Postman&logoColor=white&labelColor=black)](https://www.postman.com/)
+[![Git](https://img.shields.io/badge/GIT-3f3fff?style=for-the-badge&logo=GIT&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
+[![CSS](https://img.shields.io/badge/CSS-3f3fff?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
+[![HTML](https://img.shields.io/badge/HTML-3f3fff?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
 
 
 
