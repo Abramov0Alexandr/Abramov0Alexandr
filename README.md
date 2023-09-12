@@ -21,10 +21,16 @@
 ### Using tools
 [![Django](https://img.shields.io/badge/django-3f3fff?style=for-the-badge&logo=Django&labelColor=black)](https://www.djangoproject.com/)
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-3f3fff?style=for-the-badge&logo=Postgresql&logoColor=white&labelColor=black)](https://www.postgresql.org/)
-[![Postman](https://img.shields.io/badge/Postman-3f3fff?style=for-the-badge&logo=Postman&logoColor=white&labelColor=black)](https://www.postman.com/)
+[![Postman](https://img.shields.io/badge/Postman-3f3fff?style=for-the-badge&logo=Postman&logoColor=white&labelColor=black)](https://www.postman.com/)<br>
+[![Celery](https://img.shields.io/badge/celery-white?style=for-the-badge&logo=celery&logoColor=white&labelColor=black&color=3f3fff)](https://docs.celeryq.dev/en/stable/)
+[![Redis](https://img.shields.io/badge/redis-white?style=for-the-badge&logo=redis&logoColor=white&labelColor=black&color=3f3fff)](https://redis.io/)
 [![Git](https://img.shields.io/badge/GIT-3f3fff?style=for-the-badge&logo=GIT&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
 [![CSS](https://img.shields.io/badge/CSS-3f3fff?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
 [![HTML](https://img.shields.io/badge/HTML-3f3fff?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
+
+
+
+
 
 
 
