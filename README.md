@@ -9,17 +9,30 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abramov0Alexandr&show_icons=true&theme=gruvbox_light)](https://github.com/Abramov0Alexandr?tab=repositories) -->
 
-### Using languages
-[![Python](https://img.shields.io/badge/-Python-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/sql-3f3fff?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white)](https://github.com/Abramov0Alexandr)
-
 ### OS
 [![Linux](https://img.shields.io/badge/linux-3f3fff?style=for-the-badge&logo=Linux&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-3f3fff?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=black)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-3f3fff?style=for-the-badge&logo=Windows&labelColor=black)](https://github.com/Abramov0Alexandr)
 
-### Using tools
+### Using languages
+[![Python](https://img.shields.io/badge/-Python-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/sql-3f3fff?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white)](https://github.com/Abramov0Alexandr)
+
+### Using frameworks
 [![Django](https://img.shields.io/badge/django-3f3fff?style=for-the-badge&logo=Django&labelColor=black)](https://www.djangoproject.com/)
+[![Fast API](https://img.shields.io/badge/Fast_API-3f3fff?style=for-the-badge&logo=FastAPI&logoColor=white&labelColor=black)](https://fastapi.tiangolo.com/)
+
+### Using libs
+[![Pytest](https://img.shields.io/badge/pytest-3f3fff?style=for-the-badge&logo=pytest&logoColor=white&labelColor=black)](https://docs.pytest.org/en/7.4.x/)
+[![asyncpg](https://img.shields.io/badge/asyncpg-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://magicstack.github.io/asyncpg/current/)
+[![httpx](https://img.shields.io/badge/httpx-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://www.python-httpx.org/)
+[![alembic](https://img.shields.io/badge/alembic-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://alembic.sqlalchemy.org/en/latest/)<br>
+[![sqlalchemy](https://img.shields.io/badge/sqlalchemy-3f3fff?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=black)](https://www.sqlalchemy.org/)
+[![pydantic](https://img.shields.io/badge/pydantic-3f3fff?style=for-the-badge&logo=pydantic&logoColor=white&labelColor=black)](https://docs.pydantic.dev/latest/)
+[![django_extensions](https://img.shields.io/badge/django_extensions-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://django-extensions.readthedocs.io/en/latest/)
+[![flake8](https://img.shields.io/badge/flake8-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://flake8.pycqa.org/en/latest/)
+
+### Using tools
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-3f3fff?style=for-the-badge&logo=Postgresql&logoColor=white&labelColor=black)](https://www.postgresql.org/)
 [![Postman](https://img.shields.io/badge/Postman-3f3fff?style=for-the-badge&logo=Postman&logoColor=white&labelColor=black)](https://www.postman.com/)<br>
 [![Celery](https://img.shields.io/badge/celery-white?style=for-the-badge&logo=celery&logoColor=white&labelColor=black&color=3f3fff)](https://docs.celeryq.dev/en/stable/)
@@ -28,13 +41,8 @@
 [![CSS](https://img.shields.io/badge/CSS-3f3fff?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
 [![HTML](https://img.shields.io/badge/HTML-3f3fff?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
 
-
-
-
-
-
-
-
+### My stats
+![](https://komarev.com/ghpvc/?username=Abramov0Alexandr&color=3f3fff&style=for-the-badge)
 <p align="center">
   <a href="https://github.com/Abramov0Alexandr">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abramov0Alexandr&theme=transparent" />
