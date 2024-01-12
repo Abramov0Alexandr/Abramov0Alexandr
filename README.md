@@ -31,6 +31,7 @@
 [![pydantic](https://img.shields.io/badge/pydantic-3f3fff?style=for-the-badge&logo=pydantic&logoColor=white&labelColor=black)](https://docs.pydantic.dev/latest/)
 [![django_extensions](https://img.shields.io/badge/django_extensions-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://django-extensions.readthedocs.io/en/latest/)
 [![flake8](https://img.shields.io/badge/flake8-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://flake8.pycqa.org/en/latest/)
+[![mypy](https://img.shields.io/badge/mypy-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://mypy-lang.org/)
 
 ### Using tools
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-3f3fff?style=for-the-badge&logo=Postgresql&logoColor=white&labelColor=black)](https://www.postgresql.org/)
