@@ -1,75 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="450"/>
-</div>
 
-<h1 align="center">
-  Welcome to my GitHub profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex1energy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexandr.abramovvv@yandex.ru) 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abramov0Alexandr&show_icons=true&theme=gruvbox_light)](https://github.com/Abramov0Alexandr?tab=repositories) -->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abramov0Alexandr&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abramov0Alexandr&theme=discord_old_blurple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abramov0Alexandr&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### OS
-[![Linux](https://img.shields.io/badge/linux-3f3fff?style=for-the-badge&logo=Linux&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-3f3fff?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=black)](https://ubuntu.com/)
-[![Windows](https://img.shields.io/badge/Windows-3f3fff?style=for-the-badge&logo=Windows&labelColor=black)](https://github.com/Abramov0Alexandr)
+---
+[![](https://visitcount.itsvg.in/api?id=Abramov0Alexandr&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### Using languages
-[![Python](https://img.shields.io/badge/-Python-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/sql-3f3fff?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white)](https://github.com/Abramov0Alexandr)
-
-### Using frameworks
-[![Django](https://img.shields.io/badge/django-3f3fff?style=for-the-badge&logo=Django&labelColor=black)](https://www.djangoproject.com/)
-[![Fast API](https://img.shields.io/badge/Fast_API-3f3fff?style=for-the-badge&logo=FastAPI&logoColor=white&labelColor=black)](https://fastapi.tiangolo.com/)
-
-### Using libs
-[![Pytest](https://img.shields.io/badge/pytest-3f3fff?style=for-the-badge&logo=pytest&logoColor=white&labelColor=black)](https://docs.pytest.org/en/7.4.x/)
-[![asyncpg](https://img.shields.io/badge/asyncpg-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://magicstack.github.io/asyncpg/current/)
-[![httpx](https://img.shields.io/badge/httpx-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://www.python-httpx.org/)
-[![alembic](https://img.shields.io/badge/alembic-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://alembic.sqlalchemy.org/en/latest/)<br>
-[![sqlalchemy](https://img.shields.io/badge/sqlalchemy-3f3fff?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=black)](https://www.sqlalchemy.org/)
-[![pydantic](https://img.shields.io/badge/pydantic-3f3fff?style=for-the-badge&logo=pydantic&logoColor=white&labelColor=black)](https://docs.pydantic.dev/latest/)
-[![django_extensions](https://img.shields.io/badge/django_extensions-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://django-extensions.readthedocs.io/en/latest/)
-[![flake8](https://img.shields.io/badge/flake8-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://flake8.pycqa.org/en/latest/)
-[![mypy](https://img.shields.io/badge/mypy-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://mypy-lang.org/)
-
-### Using tools
-[![PostgreSQL](https://img.shields.io/badge/Postgresql-3f3fff?style=for-the-badge&logo=Postgresql&logoColor=white&labelColor=black)](https://www.postgresql.org/)
-[![Postman](https://img.shields.io/badge/Postman-3f3fff?style=for-the-badge&logo=Postman&logoColor=white&labelColor=black)](https://www.postman.com/)<br>
-[![Celery](https://img.shields.io/badge/celery-white?style=for-the-badge&logo=celery&logoColor=white&labelColor=black&color=3f3fff)](https://docs.celeryq.dev/en/stable/)
-[![Redis](https://img.shields.io/badge/redis-white?style=for-the-badge&logo=redis&logoColor=white&labelColor=black&color=3f3fff)](https://redis.io/)
-[![Git](https://img.shields.io/badge/GIT-3f3fff?style=for-the-badge&logo=GIT&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
-[![CSS](https://img.shields.io/badge/CSS-3f3fff?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
-[![HTML](https://img.shields.io/badge/HTML-3f3fff?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
-
-### My stats
-![](https://komarev.com/ghpvc/?username=Abramov0Alexandr&color=3f3fff&style=for-the-badge)
-<p align="center">
-  <a href="https://github.com/Abramov0Alexandr">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abramov0Alexandr&theme=transparent" />
-  </a>
-  <a href="https://github.com/Abramov0Alexandr">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abramov0Alexandr&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Abramov0Alexandr">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abramov0Alexandr&theme=transparent" />
-  </a>
-
-</p>
-
-<!--
-**Abramov0Alexandr/Abramov0Alexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
